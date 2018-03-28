@@ -1,0 +1,6 @@
+p {
+    border: 0.1em;
+    border-color: blueviolet;
+    border-style: dotted;
+    min-width:5rem;
+}
